@@ -1,6 +1,6 @@
 # Discord Website Chat Crawler and WordCloud Generator
 
-This repository contains a script that crawls text messages from Discord using the Discord API.
+This repository contains a script that crawls text messages from Discord using the Discord API and generate WordCloud.
 
 To use this script, follow these steps:
 
